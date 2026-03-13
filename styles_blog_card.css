@@ -1,4 +1,17 @@
 
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ecc340;
+}
+
 .card {
     border-radius: 15px;
+}
+
+
+.shadow-bottom-right {
+  box-shadow: 10px 8px 0px rgba(0, 0, 0, 0.8);
 }
